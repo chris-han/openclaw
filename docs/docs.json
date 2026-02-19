@@ -204,6 +204,10 @@
       "destination": "/concepts/agent-loop"
     },
     {
+      "source": "/agent-design-review",
+      "destination": "/concepts/agent-design-review"
+    },
+    {
       "source": "/agent-send",
       "destination": "/tools/agent-send"
     },
@@ -921,6 +925,7 @@
                   "concepts/architecture",
                   "concepts/agent",
                   "concepts/agent-loop",
+                  "concepts/agent-design-review",
                   "concepts/system-prompt",
                   "concepts/context",
                   "concepts/agent-workspace",
